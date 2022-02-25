@@ -1,0 +1,234 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Sad and deplorable news from Oxford-sheir &amp; Bark-sheir Being a lamentable and true relation of the drowning of about sixty persons, men, women and children, in the lock, near Goring in Oxford sheir; as they were passing by water, from Goring Feast, to Stately in Barksheir.  Readers, this story is both strange and true, and for your good (presented unto you:) be careful of your life, all sins to fly, lest you by death be taken suddenly. When he is sent, on you arrest to make, no fees nor bail, can purchase your escape.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1674</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58994</idno>
+            <idno type="STC">Wing S230</idno>
+            <idno type="STC">ESTC R219824</idno>
+            <idno type="EEBO-CITATION">99831271</idno>
+            <idno type="PROQUEST">99831271</idno>
+            <idno type="VID">35734</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A58994)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 35734)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2041:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Sad and deplorable news from Oxford-sheir &amp; Bark-sheir Being a lamentable and true relation of the drowning of about sixty persons, men, women and children, in the lock, near Goring in Oxford sheir; as they were passing by water, from Goring Feast, to Stately in Barksheir.  Readers, this story is both strange and true, and for your good (presented unto you:) be careful of your life, all sins to fly, lest you by death be taken suddenly. When he is sent, on you arrest to make, no fees nor bail, can purchase your escape.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for R. Vaughan, in the Little-old-Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1674.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1 reads: Sad news from Oxford shier, and Berke-shier, &amp;c.</note>
+                  <note>Some print show-through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Drowning --  England --  Early works to 1800.</term>
+               <term>Drowning victims --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:35734:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 86 -->
+            <p>Sad and Deplorable NEWS From <hi>OXFORD-SHEIR</hi> &amp; <hi>BARK-SHEIR.</hi>
+            </p>
+            <p>Being a Lamentable and True RELATION Of the Drowning of about ſixty Perſons, Men, Women and Children, in the Lock, near <hi>Goring</hi> in <hi>Oxford ſheir;</hi> as they were paſſing by water, from <hi>Goring</hi> Feaſt, to <hi>Stately</hi> in <hi>Barkſheir.</hi>
+            </p>
+            <q>
+               <l>Readers, this ſtory is both ſtrange and true,</l>
+               <l>And for your good (preſented unto you:)</l>
+               <l>Be careful of your life, all ſins to fly,</l>
+               <l>Leſt you by death be taken ſuddenly.</l>
+               <l>When he is ſent, on you Arreſt to make,</l>
+               <l>No Fees nor Bail, can purchaſe your eſcape.</l>
+            </q>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>R. Vaughan,</hi> in the <hi>Little-old-Baily.</hi> 1674.</p>
+            <pb facs="tcp:35734:2"/>
+            <!-- PDF PAGE 87 -->
+            <pb facs="tcp:35734:2" rendition="simple:additions"/>
+            <!-- PDF PAGE 87 -->
+            <gap reason="duplicate" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:35734:3"/>
+            <!-- PDF PAGE 88 -->
+            <pb n="1" facs="tcp:35734:3"/>
+            <!-- PDF PAGE 88 -->
+            <head>Sad News from <hi>Oxford ſhier,</hi> and <hi>Berk-ſhier,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">T</seg>IME was when the Curious World had her eyes alway turn<g ref="char:EOLhyphen"/>ed towards the Banks of <hi>Nile,</hi> and the torrid ſands of ſunburnt <hi>Africa,</hi> in continual expectation of ſome new and uncouth ſhapes to be ſtill produced by that Monſter-teeming Mother.</p>
+            <p>But now, as if that vaſt Continent of Prodigies were contracted into the later ſmall Teutonick engine, It is ſtrange to ſee how greedie Mortals eye the labouring Preſs, and with gaping mouths attend its delivery; as ready to ſwallow and devour what ever it brings forth; and what is more prepo<g ref="char:EOLhyphen"/>ſterous, the more Elephantine or Garagantuane the brats dimenſions ſeem, whatere it be above the truth ſo much the eaſilier it goes down and is di<g ref="char:EOLhyphen"/>geſt<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d by that Monſter devouring Monſter, the ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible: damage" extent="1 chunk">
+                  <desc>…</desc>
+               </gap> 
+               <gap reason="illegible: damage" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>.</p>
+            <p>
+               <pb n="2" facs="tcp:35734:4"/>
+               <!-- PDF PAGE 89 -->
+To ſatisfy which inſatiable Appetite of our News mongers and their <hi>Athenians,</hi> Heaven and the Ele<g ref="char:EOLhyphen"/>ments ſeem peculiarly to have conſented. This be<g ref="char:EOLhyphen"/>ing an Age, and this year eſpecially a year of won<g ref="char:EOLhyphen"/>ders, and if not every where prodigious, yet in no part not remarkable in ſome eminent example of Providence or other: not to ſpeak now of Wars and Battels, or Chriſtians unnaturally weltring in Chri<g ref="char:EOLhyphen"/>ſtian goar, now in moſt part of Europe; what pro<g ref="char:EOLhyphen"/>digious Inundations. Snow and Cold have moleſted our Climate, what loſſes by Sea, what miſchiefs by Land have in ſeveral parts afflicted us? but above all, what ſtrange Exceſs of Fury &amp; Madneſs has of late exercis'd its rage on our peoples minds? what unpa<g ref="char:EOLhyphen"/>ralleld and deſperate Roberies, Cruelties and Cheats have happened? what Diabolical tranſports of de<g ref="char:EOLhyphen"/>ſpair, and Self-Murther, has of late in all parts, in more than Prodigious frequency, ſeized poor Mor<g ref="char:EOLhyphen"/>tals? In a word, have we not been daily alarmed with an infinite variety of unwonted Accidents, that God ſeems reſolv'd to chaſtiſe our delight in falſe and Romantick news, to glut us with the more ſerious ſtrangeneſs of equally ſad and wonderful truths? Yes, ſurely Providence hath given us true ſubject enough for our diſcourſe, without either careening the Ocean, or ranſacking old wives mo<g ref="char:EOLhyphen"/>num<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt for amuſing figments When we our
+<pb n="3" facs="tcp:35734:4"/>
+               <!-- PDF PAGE 89 -->ſelves being become ſo many Prodigies of Sin and Profaneſs, when our days are ſuch, that Vice, that formerly ſhunned the light, now walks unmaſ<g ref="char:EOLhyphen"/>ked, and with open face dares plead for the palm, where it was wont to deprecate puniſhment. We cannot wonder if Nature and its Author combine againſt us, &amp; expoſe our Enormities by monſtrous and irregular accidents in the Mac<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ocoſme as a<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the lively H<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eroglyphicks of them; nay, we can expect no leſs than the Meteors and Elements ſhould be armed to chaſtize our violences done to nature, and even the inſtruments of our Life, Ple<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſure, and Re<g ref="char:EOLhyphen"/>creation b<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>b<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d and foreſtalled by unſeen and unex<g ref="char:EOLhyphen"/>pected ſurprizes to revenge our Hypocriſy. This is certainly, what as in general we deſerve, ſo in re<g ref="char:EOLhyphen"/>allity we all might look for, and therefore, however we may ſee theſe things as we think paſs by us, and light on others, as perhaps ſome may be apt to col<g ref="char:EOLhyphen"/>lect from the deplorable example lately arrived, yet are not ſo partially to apply them, as to think thoſe perſons were e<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e the worſe for being the ex<g ref="char:EOLhyphen"/>amples of Gods judgments, or that thoſe things happened to th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m on<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y, meerly for their ſin, th<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t we ſhould therefore conceit our ſelves the more righteous, or ſpared for our g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>odneſs; but l<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t u<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ra<g ref="char:EOLunhyphen"/>ther conſid<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r that o<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r ſins were equ<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>lly, or perhap<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> more induſtriouſly leve<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>led at, in ſuch ex<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mples
+<pb n="4" facs="tcp:35734:5"/>
+               <!-- PDF PAGE 90 -->than thoſe of the ſuffering, and therefore giving you firſt in charge and caution that Evangeli<g ref="char:EOLhyphen"/>cal rule, that you ſhould never think perſons falling under any diſaſters to be the greater ſinners, but that when all are Sinners, ſome are made examples to their own health, and admoniſhment to the li<g ref="char:EOLhyphen"/>ving, which admoniſhment if we take not, we ſhall all likewiſe periſh; upon this Chriſtian ſtipulation, I ſay, that what ſhall be related to the living, may be to their benefit, made uſe of without any uncha<g ref="char:EOLhyphen"/>ritable reflections on the dead; who perhaps may be more Innocent than the ſurviving hearers of the ſad cataſtrophe: I ſhall give you a punctual account of a moſt true and unparalleld Diſaſter which hap<g ref="char:EOLhyphen"/>pened at <hi>Goring Lock</hi> going to <hi>Stately;</hi> on Monday the 6th of this inſtant <hi>July</hi> 1674<g ref="char:punc">▪</g> about 7 a clock at night, where about 50 or 60 perſons of Men, Women and Children, with one Mare croſſing the water together in a boat from <hi>Oxfordſhire</hi> to <hi>Bark-ſhire,</hi> by the watermens imprudently rowing too neer the ſhore of the Lock, they were by the force of the water drawn down the Lock, where their boat being preſently overwhelmed they were all turned into the Pool, except fourteen or fifteen (who had been all then at the feaſt at <hi>Goring</hi>) were all unfortunately drowned, &amp; to ſhew how vain all humane aid is when Deſtiny interpoſes; this hap<g ref="char:EOLhyphen"/>pened
+<pb n="5" facs="tcp:35734:5"/>
+               <!-- PDF PAGE 90 -->in the view of hundreds of people, then met at the ſame Feaſt, near this fatal Lock, who found the excerciſe of their paſtime diſturbed and their Jollity daſhed by this mournful Diſaſter, of which they were helpleſs, but I hope not fruitleſs Spe<g ref="char:EOLhyphen"/>ctators.</p>
+            <p>
+               <hi>The perſons drowned, and ſince taken up, are not yet all known who they were, nor whence they  came the Boatman</hi> John Waklin <hi>and his brother Eſcaped by Swimming;</hi> William Buſhnel <hi>of</hi> Hagburn, <hi>whoſe the Mare was, was taken up alive, he having n<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>er</hi> 8 <hi>hours time by Providence of the Almighty allowed him longer to prepare for death then approaching, deceaſed, his Mare drowned that carried him and E.</hi> Dew, <hi>by hold<g ref="char:EOLhyphen"/>ing on the Mane to the place where they were taken up. The ſame</hi> Edward Dew <hi>yet alive, relates that he ha<g ref="char:EOLhyphen"/>pened to look to the Bottom of the Lock Pool with his eys open ſaw many that were drowning ſprawling at the bot<g ref="char:EOLhyphen"/>tom like Frogs. Goodman</hi> Morecock <hi>of</hi> Stately, <hi>and his wife were Drowned, but their Son in Law</hi> Francis Higgs <hi>eſcaped with the loſs of his wife</hi> (<hi>the ſaid</hi> Tho<g ref="char:EOLhyphen"/>mas Morecocks <hi>daughter,</hi>) <hi>a Woman with Child, and a Child in her Armes, both then drown<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d. Widdow</hi> Bell <hi>carrying a rich pack of Wares, was drowned, Goodman</hi> Wheeler <hi>of</hi> Mayſeldom <hi>was Drowned his wife mira<g ref="char:EOLhyphen"/>culouſly I ſcaped by catching hold of a mans Leg that g<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t on the bottom of the overwhelmed boat,</hi> Thomas
+<pb n="6" facs="tcp:35734:6"/>
+               <!-- PDF PAGE 91 -->Smith <hi>of</hi> Compton <hi>and</hi> 3 <hi>mo<gap reason="illegible: missing" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e of the ſame Town with</hi> Adam Belinger <hi>of</hi> Chilton, <hi>and one</hi> King, <hi>a Butcher of</hi> Standford, <hi>and his wife, were all likewiſe drowned. And on Thurſday the</hi> 9th, <hi>was</hi> 12 <hi>more taken up, whoſe names are not yet known, and it is ſuppoſed there are yet more at the botton of the Pool not yet diſcovered.</hi>
+            </p>
+            <p>
+               <hi>Readers,</hi>
+               <lb/>
+You have here though a ſtrange and very ſad relati<g ref="char:EOLhyphen"/>on, yet very true, I dare aſſure you; but becauſe there are dayly ſuch ſad stories, as ſince the deſtruction of Sodom and Gomorrah the like was never heard of it will (I know) be very difficult to perſwade many that what is related is tru<gap reason="illegible: bleedthrough" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, eſpecially ſuch as live in remo<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e pla<g ref="char:EOLhyphen"/>ces, who ſee not the ſad relations which <hi>London</hi> affords or other great citys or towns where much people inhabite. What may we beleieve, but that the great day is neer, and if we diligently ſearch the Scriptures we ſhall find theſe the lat<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er times of which our Saviour gave us the ſigns.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:35734:6"/>
+            <!-- PDF PAGE 91 -->
+         </div>
+      </body>
+   </text>
+</TEI>
